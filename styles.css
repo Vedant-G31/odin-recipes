@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(4, 67, 126)
+}
+
+.mainPage .mainTitle {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 38px;
+    background-color: rgb(0, 136, 255);
+    vertical-align: middle;
+}
+
+.recipeList {
+    background-color: rgb(147, 215, 255);
+    color: rgb(0, 0, 0);
+}
+
+.recipeList h3 {
+    font-size: 30px;
+    text-align: center;
+}
+.recipeList ul {
+    font-size: 18px;
+}
+
